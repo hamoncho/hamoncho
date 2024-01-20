@@ -21,7 +21,7 @@ Instituto Tecnológico Superior De Uruapan, Uruapan, Mich México.
 - **Lenguajes de Programación:** Java, JavaScript, HTML, CSS, PHP, C, C#
 - **Frameworks y Tecnologías:** Bootstrap, Nodejs, JavaFX, Git, Maven, Ant
 - **Sistemas Operativos:** Linux (Especialización en ArchLinux)
-- **Electrónica:** Conocimientos en electrónica aplicada a proyectos de desarrollo de software.
+- **Electrónica:** Conocimientos en electrónica aplicada a sensores y actuadores, programacion de microcontroladores.
 
 ## Idiomas
 - Español (nativo)
