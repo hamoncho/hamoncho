@@ -19,17 +19,13 @@ Instituto Tecnológico Superior De Uruapan, Uruapan, Mich México.
 
 ## Habilidades Técnicas
 - **Lenguajes de Programación:** Java, JavaScript, HTML, CSS, PHP, C, C#
-- **Frameworks y Tecnologías:** Bootstrap, Nodejs, JavaFX, Git, Maven, Ant
+- **Frameworks y Tecnologías:** Bootstrap, Nodejs, Laravel, JavaFX, Git, Maven, Ant
 - **Sistemas Operativos:** Linux (Especialización en ArchLinux)
 - **Electrónica:** Conocimientos en electrónica aplicada a sensores y actuadores, programacion de microcontroladores.
 
 ## Idiomas
 - Español (nativo)
 - Inglés (nivel B1)
-
-## Experiencia
-**Sitio Web Personalizado**
-- Creé un sitio web interactivo utilizando HTML, CSS y JavaScript para un cliente freelance.
 
 ## Otros Intereses
 Además de mi experiencia en desarrollo de software, tengo un interés activo en la electrónica y la tecnología. Me considero una persona autodidacta y me adapto rápidamente a nuevos desafíos.
