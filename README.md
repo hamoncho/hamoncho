@@ -1,11 +1,5 @@
 # Curriculum Vitae
 
-## Información Personal
-**Nombre:** Luis Vidal Campos Gutiérrez  
-**Ubicación:** Uruapan, Mich. México  
-**Correo Electrónico:** hamsvidal@gmail.com  
-**Teléfono:** (+52) 4521935357  
-
 ## Perfil Profesional
 Soy un apasionado desarrollador de software con experiencia destacada en Java y otras tecnologías relacionadas. Mi enfoque se centra en la resolución creativa de problemas y el desarrollo de aplicaciones robustas. Tengo habilidades en el manejo de Git, Maven, y estoy familiarizado con entornos Linux, especialmente con ArchLinux. Además, poseo un nivel de inglés B1, lo que me permite comunicarme decentemente.
 
